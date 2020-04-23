@@ -1,0 +1,11 @@
+C:\Users\aboje i\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.exe
+C:\Users\aboje i\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.deps.json
+C:\Users\aboje i\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.runtimeconfig.json
+C:\Users\aboje i\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.runtimeconfig.dev.json
+C:\Users\aboje i\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.dll
+C:\Users\aboje i\numberGuessing\bin\Debug\netcoreapp3.1\numberGuessing.pdb
+C:\Users\aboje i\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.csprojAssemblyReference.cache
+C:\Users\aboje i\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.AssemblyInfoInputs.cache
+C:\Users\aboje i\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.AssemblyInfo.cs
+C:\Users\aboje i\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.dll
+C:\Users\aboje i\numberGuessing\obj\Debug\netcoreapp3.1\numberGuessing.pdb
